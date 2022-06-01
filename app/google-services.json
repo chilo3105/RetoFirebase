@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071800142661",
+    "project_id": "reto-firebase-d1300",
+    "storage_bucket": "reto-firebase-d1300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071800142661:android:dc07990c7b5fc086bd4c2c",
+        "android_client_info": {
+          "package_name": "com.example.retofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071800142661-vfaeed4b1oirp381mdrnvnjdntdffb9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClRYImsAvN66jzmJIT4wUIYkohBM-23IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071800142661-vfaeed4b1oirp381mdrnvnjdntdffb9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
